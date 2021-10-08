@@ -1,0 +1,6 @@
+To run my programs:
+Go to Terminal
+Select the dropdown and choose Command Prompt
+Select the program you would like to run with: set FLASK_APP=(program name)
+After that press ENTER
+Then type "flask run" (without quotes) to get a link to run the flask app
